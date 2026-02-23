@@ -34,3 +34,15 @@ Employee Management System backend using:
    ```bash
    npm run dev
    ```
+
+Sample User Detail:
+
+```json
+{
+ "input": {
+"username": "Miranda",
+ "email": "GustavoMiranda@example.com",
+ "password": "12345678"
+ }
+}
+```
